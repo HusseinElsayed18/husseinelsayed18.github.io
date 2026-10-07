@@ -2,8 +2,8 @@
 {
   "personal": {
     "name": "Hussein Elsayed",
-    "title": "Unity Developer",
-    "subtitle": "XR / VR | Multiplayer | EdTech",
+    "title": "Unity Game & XR Developer",
+    "subtitle": "Gameplay & Interactive Systems Developer | XR / VR | Multiplayer | EdTech(Educational)",
     "openToWork": true,
     "location": "Cairo, Egypt",
     "tagline": "Building interactive worlds, systems, and learning experiences.",
@@ -34,7 +34,7 @@
         },
         {
           "label": "portfolio",
-          "url": "https://husseinelsayed.github.io/",
+          "url": "https://husseinelsayed18.github.io/",
           "icon": "Globe",
           "enabled": true
         }
@@ -44,7 +44,7 @@
   "stats": [
     {
       "value": 5,
-      "suffix": "+",
+      "suffix": "",
       "label": "Years Experience"
     },
     {
