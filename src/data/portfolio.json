@@ -1,76 +1,71 @@
+
 {
   "personal": {
-    "name": "Omar AbdElzaher",
-    "title": "Senior Gameplay Engineer",
-    "subtitle": "Game Systems Architect",
+    "name": "Hussein Elsayed",
+    "title": "Unity Developer",
+    "subtitle": "XR / VR | Multiplayer | EdTech",
     "openToWork": true,
-    "location": "Egypt",
-    "tagline": "Building worlds. Shipping systems.",
-    "about": "Highly proficient Game Developer with over a decade of professional experience, specializing in Unity, multiplayer, and cross-platform game development, including VR/XR technologies. Expert in Unity DOTS, advanced game architecture design, and complex problem-solving.",
-    "avatar": "https://avatars.githubusercontent.com/u/1458624?v=4",
-    "resume": "src\\Assets\\Documents\\Omar_AbdElzaher_Unity_Developer_CV.pdf",
+    "location": "Cairo, Egypt",
+    "tagline": "Building interactive worlds, systems, and learning experiences.",
+    "about": "Unity Developer with professional experience building multiplayer games, VR/XR applications, AR experiences, robotics simulations, educational technology platforms, interactive training systems, and mobile applications. Strong experience in C#, Unity, multiplayer and client-server architecture, VR/XR, AR, UI/UX, backend integration, REST APIs, visual programming, custom editors, Python code generation, AI/computer vision, and third-party SDK integration. Experienced in developing complete interactive systems from software architecture and UI/UX design to gameplay, networking, authentication, platform services, and performance optimization.",
+    "avatar": "",
+    "resume": "src\\Assets\\Documents\\Hussein_Elsayed_Unity_Developer_CV.pdf",
     "contacts": {
-      "email": "omarabdelzaher@gmail.com",
-      "phone": "+20 100 814 6211",
+      "email": "husseinelsayed4g@gmail.com",
+      "phone": "(+20) 1022853641",
       "links": [
         {
           "label": "github",
-          "url": "https://github.com/omar92",
+          "url": "https://github.com/HusseinElsayed18/",
           "icon": "Github",
           "enabled": true
         },
         {
           "label": "linkedin",
-          "url": "https://www.linkedin.com/in/omarsleam",
+          "url": "https://www.linkedin.com/in/husseinelsayed18/",
           "icon": "Linkedin",
           "enabled": true
         },
         {
-          "label": "x",
-          "url": "https://x.com/oomar92",
-          "icon": "X",
-          "enabled": false
-        },
-        {
           "label": "youtube",
-          "url": "https://www.youtube.com/@omar92",
+          "url": "https://www.youtube.com/@egygamesstudios",
           "icon": "YouTube",
-          "enabled": false
+          "enabled": true
         },
         {
-          "label": "facebook",
-          "url": "https://www.facebook.com/0marGames",
-          "icon": "Facebook",
-          "enabled": false
+          "label": "portfolio",
+          "url": "https://husseinelsayed.github.io/",
+          "icon": "Globe",
+          "enabled": true
         }
       ]
     }
   },
   "stats": [
     {
-      "value": 10,
+      "value": 5,
       "suffix": "+",
       "label": "Years Experience"
     },
     {
-      "value": 47,
-      "suffix": "",
-      "label": "Public Repos"
-    },
-    {
-      "value": 200,
-      "suffix": "",
-      "label": "GitHub Stars"
-    },
-    {
-      "value": 30,
-      "suffix": "",
-      "label": "Total Forks"
-    },
-    {
-      "value": 25,
+      "value": 10,
       "suffix": "+",
-      "label": "Projects"
+      "label": "Major Projects"
+    },
+    {
+      "value": 3,
+      "suffix": "+",
+      "label": "Multiplayer Projects"
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "VR/XR Projects"
+    },
+    {
+      "value": 3,
+      "suffix": "+",
+      "label": "EdTech Projects"
     }
   ],
   "skills": [
@@ -78,870 +73,471 @@
       "category": "Game Engines",
       "items": [
         "Unity",
-        "Unreal Engine",
-        "Phaser.js",
-        "HTML5"
+        "Unity 6",
+        "2D",
+        "3D",
+        "Gameplay Programming",
+        "Simulation",
+        "Physics",
+        "Animation",
+        "Custom Editors"
       ]
     },
     {
       "category": "Languages",
       "items": [
         "C#",
-        "C++",
         "Python",
-        "JavaScript/TypeScript"
+        "Java",
+        "C++",
+        "JavaScript",
+        "PHP",
+        "HTML5"
       ]
     },
     {
-      "category": "Systems & AI",
+      "category": "Multiplayer & Networking",
       "items": [
-        "Gameplay Systems",
-        "AI Programming",
-        "UI/UX Implementation",
-        "Animation Systems"
+        "Client-Server Architecture",
+        "Photon PUN 2",
+        "AppWarp",
+        "Mirror",
+        "WebSockets",
+        "Lobby Systems",
+        "Matchmaking",
+        "Real-Time Synchronization"
       ]
     },
     {
-      "category": "Networking",
+      "category": "XR / VR / AR",
       "items": [
-        "Socket.io",
-        "Unity Netcode",
-        "Multiplayer Architecture",
-        "Matchmaking Systems"
+        "VR",
+        "XR",
+        "AR",
+        "VRIF",
+        "OpenXR",
+        "XR Interaction Toolkit",
+        "Meta Quest",
+        "Pico",
+        "Vuforia",
+        "VR Training",
+        "Virtual Tours"
       ]
     },
     {
-      "category": "Tools & Workflow",
+      "category": "Architecture & Engineering",
       "items": [
-        "Git / Version Control",
-        "CI/CD",
-        "ShaderGraph / VFX",
-        "Blender (Basics)"
-      ]
-    },
-    {
-      "category": "Specializations",
-      "items": [
-        "ScriptableObject Architecture",
-        "State Machines",
-        "Event Systems",
+        "OOP",
+        "SOLID",
+        "Design Patterns",
+        "Dependency Injection",
+        "Extenject",
+        "Event-Driven Architecture",
+        "Service Locator",
+        "Modular Systems",
+        "Data Structures & Algorithms",
         "Performance Optimization"
+      ]
+    },
+    {
+      "category": "Backend & APIs",
+      "items": [
+        "PHP",
+        "REST APIs",
+        "GraphQL",
+        "Firebase",
+        "MySQL",
+        "MongoDB",
+        "MongoDB Realm"
+      ]
+    },
+    {
+      "category": "UI/UX & Design",
+      "items": [
+        "Figma",
+        "Unity UI",
+        "UI/UX Design",
+        "Prototyping",
+        "Responsive UI"
+      ]
+    },
+    {
+      "category": "Visual Programming & Robotics",
+      "items": [
+        "Scratch",
+        "Blockly",
+        "Block-Based Programming",
+        "LEGO EV3",
+        "LEGO SPIKE",
+        "Visual Programming",
+        "Python Code Generation",
+        "Block-to-Code",
+        "Code-to-Blocks",
+        "Compiler Pipelines",
+        "Custom Programming Editors"
+      ]
+    },
+    {
+      "category": "AI & Computer Vision",
+      "items": [
+        "Unity Sentis",
+        "Unity ML-Agents",
+        "AI Behavior Trees",
+        "Computer Vision",
+        "Object Detection"
+      ]
+    },
+    {
+      "category": "Platform Services & SDKs",
+      "items": [
+        "Firebase Authentication",
+        "Google Sign-In",
+        "Analytics",
+        "In-App Purchases",
+        "Unity Ads",
+        "Start.io",
+        "Leaderboards",
+        "Achievements",
+        "Google Play Games",
+        "Game Center"
+      ]
+    },
+    {
+      "category": "Other Technologies",
+      "items": [
+        "React",
+        "Flutter"
+      ]
+    },
+    {
+      "category": "Platforms",
+      "items": [
+        "Android",
+        "iOS",
+        "PC",
+        "WebGL",
+        "Mobile",
+        "Meta Quest",
+        "Pico"
+      ]
+    },
+    {
+      "category": "Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "Jira",
+        "Visual Studio",
+        "Android Studio",
+        "Blender",
+        "Photoshop",
+        "Figma"
       ]
     }
   ],
   "experience": [
     {
-      "company": "HighStreet Market",
-      "url": "https://www.highstreet.market",
-      "position": "Game Systems Architect",
-      "startDate": "2024",
+      "company": "Kid Koder Academy",
+      "url": "",
+      "position": "Instructor — Programming, Game Development & Robotics",
+      "startDate": "Aug 2026",
       "endDate": "Present",
       "description": [
-        "Led the architecture team for the forthcoming metaverse initiative",
-        "Designed Unity DOTS-focused systems optimized for large-scale multiplayer",
-        "Built scalable networking and backend systems for MMO-level experiences",
-        "Owned cross-platform integration for web and VR targets"
+        "Teach programming from scratch, starting with computational thinking and beginner-friendly visual programming.",
+        "Teach Scratch and Blockly, including variables, conditions, loops, events, operators, functions, and programming logic.",
+        "Teach students how Scratch-style block editors work, including concepts behind visual programming and custom block-based programming environments.",
+        "Guide students through building games from scratch, including Pong, multiplayer Pong, Super Mario-style games, and car/racing games.",
+        "Use game development to teach programming, problem-solving, algorithms, and logical thinking.",
+        "Progress students from visual programming into text-based programming, including Python and JavaScript.",
+        "Introduce modern development technologies through practical projects, including React and Flutter.",
+        "Teach C# and Unity for students progressing toward professional game development.",
+        "Teach robotics and programming concepts through hands-on projects and interactive simulations.",
+        "Adapt lessons for students with different programming experience levels."
       ],
       "skills": [
-        "Unity",
-        "DOTS",
-        "C#",
-        "Multiplayer",
-        "VR/XR",
-        "Architecture"
-      ],
-      "projects_ids": [
-        "highstreet-calamity"
-      ],
-      "id": "highstreet-architect"
-    },
-    {
-      "company": "HighStreet Market",
-      "url": "https://www.highstreet.market",
-      "position": "Senior Game Developer",
-      "startDate": "2022",
-      "endDate": "2024",
-      "description": [
-        "Built cross-platform web and VR experiences for a multiverse MMO",
-        "Implemented matchmaking, lobby, and real-time networking systems",
-        "Developed systems to handle NFT data integration"
-      ],
-      "skills": [
-        "Unity",
-        "C#",
-        "Netcode",
-        "Web",
-        "VR",
-        "Backend"
-      ],
-      "projects_ids": [
-        "highstreet-campus",
-        "highstreet-homes",
-        "highstreet-island"
-      ],
-      "id": "highstreet-senior"
-    },
-    {
-      "company": "Zinad IT Solutions",
-      "url": "https://zinad.net/",
-      "position": "Game DevelopmentTeam Lead",
-      "startDate": "Feb 2020",
-      "endDate": "2022",
-      "description": [
-        "Led development team for serious games in cybersecurity awareness",
-        "Architected multi-platform Unity solutions (Web, VR, Kinect)",
-        "Mentored junior developers and established coding standards",
-        "Delivered enterprise training products for major clients"
-      ],
-      "skills": [
-        "C#",
-        "Unity",
+        "Programming",
+        "Scratch",
+        "Blockly",
+        "Python",
         "JavaScript",
-        "VR",
-        "WebGL",
-        "Kinect",
-        "Leadership"
-      ],
-      "projects_ids": [
-        "zinad-training-games",
-        "zinad-office",
-        "zinad-phishing",
-        "zinad-millionaire",
-        "zinad-password-ninja",
-        "zinad-url-punk",
-        "zinad-archery-vr",
-        "zinad-clean-desk-policy",
-        "zinad-emoji",
-        "zinad-awarness",
-        "zinad-interactiveVideoPlayer"
-      ],
-      "id": "zinad"
-    },
-    {
-      "company": "Information Technology Institute (ITI)",
-      "url": "https://www.iti.gov.eg/iti/home",
-      "position": "Game Track Supervisor / Teaching Assistant",
-      "startDate": "Aug 2018",
-      "endDate": "Feb 2020",
-      "description": [
-        "Taught C/C++, design patterns, Unity3D, HTML5 game dev, and optimization",
-        "Developed and updated curriculum to include latest industry tech",
-        "Guided students through graduation projects and production workflows"
-      ],
-      "skills": [
-        "C/C++",
+        "React",
+        "Flutter",
         "C#",
         "Unity",
-        "JavaScript",
-        "HTML5",
-        "Design Patterns",
+        "Robotics",
+        "Game Development",
         "Teaching"
       ],
-      "projects_ids": [
-        "iti-rhythm-attack"
-      ],
-      "id": "iti"
+      "projects_ids": [],
+      "id": "kid-koder-academy"
     },
     {
-      "company": "A15 / El3ab.com",
-      "url": "https://a15.com/",
-      "position": "Game Developer",
-      "startDate": "May 2015",
-      "endDate": "Oct 2017",
+      "company": "Freelance / Independent Unity Developer - EgyGames",
+      "url": "https://husseinelsayed.github.io/",
+      "position": "Unity Developer",
+      "startDate": "2026",
+      "endDate": "Present",
       "description": [
-        "Rebuilt legacy Flash games for Web, Android, and iOS using Unity and Phaser.js",
-        "Developed server-side logic for multiplayer card and board games",
-        "Featured project: Estimation Kings (Published on iOS & Android)"
+        "Continued development of Sigato V2, expanding the original multiplayer game developed at DGSs.",
+        "Designed and implemented the game's UI/UX independently using Figma and Unity UI.",
+        "Designed and implemented the project's software architecture using Extenject and Dependency Injection.",
+        "Extended multiplayer architecture with client-server synchronization, online communication, lobby, and matchmaking systems.",
+        "Integrated Photon PUN 2 for multiplayer networking.",
+        "Integrated Unity Gaming Services, Firebase, and Google Sign-In.",
+        "Integrated Google Play Games and Game Center.",
+        "Implemented Analytics, In-App Purchases, Leaderboards, Achievements, Advertising, and localization.",
+        "Implemented English, Arabic, and French localization.",
+        "Developed daily rewards, challenges, shop, rewards, themes, audio, settings, and reusable popup systems.",
+        "Used UniRx and LitMotion for reactive systems and responsive UI interactions.",
+        "Optimized the application for mobile and cross-platform deployment."
       ],
       "skills": [
-        "C#",
         "Unity",
-        "JavaScript",
-        "Phaser.js",
-        "HTML5",
-        "Java",
-        "SmartFox Server"
+        "C#",
+        "Photon PUN 2",
+        "Multiplayer",
+        "Client-Server Architecture",
+        "Extenject",
+        "Dependency Injection",
+        "Firebase",
+        "Unity Gaming Services",
+        "Google Sign-In",
+        "Figma",
+        "UI/UX",
+        "Mobile Development",
+        "Localization"
       ],
       "projects_ids": [
-        "el3ab-estimation-kings"
+        "sigato-v2"
       ],
-      "id": "a15"
+      "id": "egygames"
     },
     {
-      "company": "SkyTech",
+      "company": "EKSON Technology / AlMotahida — Scivr",
       "url": "",
-      "position": "Web Solution Developer",
-      "startDate": "2014",
-      "endDate": "2015",
+      "position": "Unity Developer — VR / XR / Educational Applications",
+      "startDate": "Sep 2024",
+      "endDate": "Jul 2026",
       "description": [
-        "Developed SkyPM preventive maintenance software",
-        "Built web-based workflows for enterprise operations"
+        "Developed VR/XR, educational, medical, scientific, and interactive Unity applications.",
+        "Developed multiple VR projects using VRIF (VR Interaction Framework).",
+        "Built and optimized VR applications for Meta Quest and Pico standalone headsets.",
+        "Developed and deployed WebGL interactive experiences for browser-based platforms.",
+        "Implemented immersive VR interactions, object manipulation, UI, navigation, animation, audio, and interactive workflows.",
+        "Developed VR virtual tours including Pizza Tower and Acropolis experiences.",
+        "Developed medical and dental VR applications including Dentist, Dentist Hygiene, Skin Care, and related training experiences.",
+        "Contributed to 5+ Mathematics, 5+ Biology, and 5+ CTE educational projects.",
+        "Optimized applications for standalone VR hardware and WebGL deployment."
       ],
       "skills": [
-        "VP.NET",
-        "CSS",
-        "Web Apps",
-        "JavaScript",
-        "HTML5"
+        "Unity",
+        "C#",
+        "VR",
+        "XR",
+        "VRIF",
+        "OpenXR",
+        "Meta Quest",
+        "Pico",
+        "WebGL",
+        "Educational Technology",
+        "Medical Applications",
+        "Virtual Tours",
+        "Performance Optimization"
       ],
-      "projects_ids": [],
-      "id": "skytech"
-    },
-    {
-      "company": "Egyptian Army",
-      "url": "",
-      "position": "Web Solution Developer",
-      "startDate": "2014",
-      "endDate": "2015",
-      "description": [
-        "Developed internal web portals and content systems"
-      ],
-      "skills": [
-        "JavaScript",
-        "HTML5",
-        "CSS",
-        "Web Apps"
-      ],
-      "projects_ids": [],
-      "id": "army"
-    }
-  ],
-  "education": [
-    {
-      "name": "Information Technology Institute (ITI)",
-      "degree": "Professional Diploma in Game Development",
-      "field": "Game Development",
-      "startYear": 2017,
-      "endYear": 2018,
-      "grade": "Very Good",
-      "details": "9-month intensive game development program with focus on game programming, VR development, Unity3D, design patterns, and game optimization.",
       "projects_ids": [
-        "iti-rhythm-attack"
+        "scivr-vr-applications"
       ],
-      "id": "iti-diploma",
-      "project": "Rhythm Attack VR"
+      "id": "ekson-scivr"
     },
     {
-      "name": "Misr Higher Institute for Engineering and Technology",
-      "degree": "Bachelor of Computer Engineering",
-      "field": "Computer Engineering",
-      "startYear": 2008,
-      "endYear": 2013,
-      "grade": "Very Good",
-      "details": "Focus areas: software engineering, computer graphics, artificial intelligence, and systems architecture.",
-      "projects_ids": [],
-      "id": "computer-engineer",
-      "project": ""
+      "company": "DGSs",
+      "url": "",
+      "position": "Game Developer — Sigato V1",
+      "startDate": "Jul 2024",
+      "endDate": "Aug 2024",
+      "description": [
+        "Programmed and launched Sigato, a multiplayer 2D board game deployed directly to the Google Play Store.",
+        "Implemented real-time client-server synchronization.",
+        "Built lobby and matchmaking pipelines.",
+        "Implemented online communication states and multiplayer gameplay synchronization.",
+        "Established the initial gameplay, UI, and networking architecture that became the foundation for Sigato V2."
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "Multiplayer",
+        "Client-Server Architecture",
+        "Lobby",
+        "Matchmaking",
+        "Real-Time Synchronization",
+        "Mobile Development"
+      ],
+      "projects_ids": [
+        "sigato-v1"
+      ],
+      "id": "dgss"
+    },
+    {
+      "company": "Thaka (Thaka international) / BE-STEAM — 01Skills",
+      "url": "",
+      "position": "Unity Developer / Robotics & EdTech Developer",
+      "startDate": "2023",
+      "endDate": "2024",
+      "description": [
+        "Contributed to 01Skills, an educational technology platform serving thousands of students/users through interactive coding, robotics simulation, learning, practice, and competition.",
+        "Developed and enhanced robotics simulation supporting LEGO EV3 and SPIKE-style programming.",
+        "Extended block-based programming with loops, conditions, logic, comparisons, arithmetic, variables, robot movement, sensors, and control structures.",
+        "Implemented support for complex nested mathematical and logical expressions.",
+        "Developed comprehensive EV3 and SPIKE block-programming systems.",
+        "Built a custom programming editor supporting Block-to-Python and Code-to-Blocks workflows.",
+        "Implemented project loading and saving and a portable Python code-generation workflow.",
+        "Connected programming blocks with simulated robot behavior, robotics mission logic, and challenges.",
+        "Worked on the Panama educational robotics mission, including robot simulation, block programming, mission objectives, and execution logic."
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "Robotics",
+        "LEGO EV3",
+        "LEGO SPIKE",
+        "Blockly",
+        "Visual Programming",
+        "Python",
+        "Code Generation",
+        "Custom Editors",
+        "Simulation",
+        "EdTech"
+      ],
+      "projects_ids": [
+        "01skills-robotics"
+      ],
+      "id": "thaka-01skills"
+    },
+    {
+      "company": "PSTC — Saudi Arabia",
+      "url": "",
+      "position": "Game Developer",
+      "startDate": "Oct 2021",
+      "endDate": "Apr 2022",
+      "description": [
+        "Engineered a multiplayer gamified mobile application integrated into the InsuranceMarket platform.",
+        "Implemented real-time multiplayer functionality using the AppWarp multiplayer networking plugin.",
+        "Built multiplayer rooms, real-time communication, and synchronized game states.",
+        "Built secure login/sign-up authentication, user profiles, guest sessions, and real-time live chat rooms.",
+        "Integrated Unity Ads and Start.io SDK networks.",
+        "Performed texture compression, script refactoring, and code profiling to improve application size and runtime performance.",
+        "Optimized assets, scripts, rendering, and runtime performance for mobile devices."
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "AppWarp",
+        "Multiplayer",
+        "Authentication",
+        "Real-Time Communication",
+        "Unity Ads",
+        "Start.io",
+        "Mobile Optimization"
+      ],
+      "projects_ids": [
+        "pstc-gamified-mobile"
+      ],
+      "id": "pstc"
     }
   ],
+  "education": [],
   "projects": [
     {
-      "id": "highstreet-calamity",
+      "id": "sigato-v2",
       "featured": true,
       "published": true,
-      "name": "HighStreet Clamity VR",
+      "name": "Sigato V2",
       "platforms": [
-        "Meta Quest"
-      ],
-      "cover-image": "src\\Assets\\Images\\highstreet-calamity\\0.bmp",
-      "screenshots": [
-        "src\\Assets\\Images\\highstreet-calamity\\1.webp",
-        "src\\Assets\\Images\\highstreet-calamity\\2.webp",
-        "src\\Assets\\Images\\highstreet-calamity\\3.webp",
-        "src\\Assets\\Images\\highstreet-calamity\\4.webp",
-        "src\\Assets\\Images\\highstreet-calamity\\5.webp"
-      ],
-      "videos": [
-        {
-          "text": "Clamity Trailer",
-          "type": "local",
-          "url": "src\\Assets\\Videos\\highstreet-calamity\\Highstreet- Calamity.mp4"
-        },
-        {
-          "text": "Clamity Gameplay",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/5Eyulq_JXzo"
-        }
-      ],
-      "genre": [
-        "VR",
-        "Multiplayer",
-        "Co-op",
-        "rouguelite",
-        "social"
-      ],
-      "skills": [
-        "Unity",
-        "Game Architecture",
-        "Data-Driven",
-        "Server Architecture",
-        "Leadership",
-        "C#",
-        "VR",
-        "Multiplayer",
-        "DOTS",
-        "Netcode for Entities",
-        "networking",
-        "GameLift",
-        "Multiplay",
-        "Node.js",
-        "Backend Development",
-        "Python",
-        "Tools Development"
-      ],
-      "filterTags": [
-        "Unity",
-        "Multiplayer",
-        "VR"
-      ],
-      "features": [
-        "Class-based combat system with unique abilities and playstyles",
-        "Procedurally generated arenas with dynamic hazards",
-        "Challenging monsters and bosses with distinct behaviors",
-        "Solo and co-op multiplayer modes with matchmaking",
-        "Progression system with gear upgrades and skill trees",
-        "Social hub for players to connect and show off achievements"
-      ],
-      "shortDescription": "Highstreet: Calamity – VR Roguelike Arena Combat in a Manic Metaverse. Protect the FOMO DUCKS! Highstreet: Calamity is a fast-paced, class-based VR roguelike brawler set in Solera, a chaotic world where talking ducks run businesses, pelicans have strong opinions, and monster portals are “just an average Tuesday.”",
-      "contributions": [
-        {
-          "title": "DOTS Architecture Design",
-          "description": "Led the design of a Unity DOTS-compatible architecture that cleanly separates logic between code and Unity scene component placement, enabling flexible and maintainable game development workflows across the team.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\4.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\6.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\7.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\8.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\9.png"
-          ]
-        },
-        {
-          "title": "Full Project Architecture Leadership",
-          "description": "Architected the entire project technical foundation including authentication flow, backend APIs, database schema, networking, server infrastructure, and all networked game core systems: spawn, health/mana/stats, combat, abilities, skills, consumables, monsters, monster AI, aggro system, AI coordinator, and interaction system — all synchronized over the network.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\1.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\2.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\3.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\4.png",
-            "src\\Assets\\Images\\highstreet-calamity\\architecture\\5.png"
-          ]
-        },
-        {
-          "title": "Matchmaking & Server Auto-Scalability",
-          "description": "Led the design and implementation of the matchmaking server and server auto-scalability infrastructure, initially built on Unity Multiplay then migrated to Amazon GameLift after Unity divested the service.",
-          "screenshot": []
-        },
-        {
-          "title": "Party & Friends System",
-          "description": "Led the design and implementation of the party system and friends system, fully integrated into the matchmaking pipeline.",
-          "screenshot": []
-        },
-        {
-          "title": "Data-Driven Game Design Pipeline",
-          "description": "Designed and implemented a data-driven pipeline exposing game data via Excel sheets to game designers, allowing them to create and tweak abilities, stats, consumables, classes, and monster AI profiles without requiring code changes.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-calamity\\data-driven\\1.png",
-            "src\\Assets\\Images\\highstreet-calamity\\data-driven\\2.png",
-            "src\\Assets\\Images\\highstreet-calamity\\data-driven\\3.png"
-          ]
-        },
-        {
-          "title": "Custom DOTS State Machine with Editor Interface and network support",
-          "description": "Designed and implemented a DOTS-based state machine with a full Unity Editor interface to support AI logic workflows. With no DOTS-native alternative available in Unity or the Asset Store at the time, this system became a foundational tool used extensively throughout the game's AI and general logic layers.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\1.png",
-            "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\2.png",
-            "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\3.png",
-            "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\4.png",
-            "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\5.png"
-          ]
-        },
-        {
-          "title": "GameLift Fleet Management Tool [Vibe Coding]",
-          "description": "Built a Python CLI tool to streamline GameLift server and fleet deployment and management, supporting saved fleet configurations to make deployments fast and repeatable.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-calamity\\gamelift-tool\\1.png",
-            "src\\Assets\\Images\\highstreet-calamity\\gamelift-tool\\2.png"
-          ]
-        },
-        {
-          "title": "Team DOTS Mentorship",
-          "description": "Onboarded and mentored the entire team on Unity DOTS from zero prior knowledge. By the end of the project, team members could independently architect and implement their own DOTS systems — requiring only review rather than hands-on design involvement as at the project's start.",
-          "screenshot": []
-        }
-      ],
-      "links": [
-        {
-          "text": "Meta Store",
-          "url": "https://www.meta.com/en-gb/experiences/highstreet-calamity/9352017631510878/",
-          "type": "website"
-        }
-      ]
-    },
-    {
-      "id": "highstreet-campus",
-      "featured": true,
-      "published": true,
-      "name": "Highstreet Campus",
-      "platforms": [
-        "webGl"
-      ],
-      "cover-image": "https://www.highstreet.market/images/highstreet_campus.png",
-      "screenshots": [
-        "src\\Assets\\Images\\highstreet-campus\\1.png",
-        "src\\Assets\\Images\\highstreet-campus\\2.png",
-        "src\\Assets\\Images\\highstreet-campus\\3.png",
-        "src\\Assets\\Images\\highstreet-campus\\4.png",
-        "src\\Assets\\Images\\highstreet-campus\\5.png",
-        "src\\Assets\\Images\\highstreet-campus\\6.png",
-        "src\\Assets\\Images\\highstreet-campus\\7.png"
-      ],
-      "videos": [
-        {
-          "text": "Trailer",
-          "type": "local",
-          "url": "src\\Assets\\Videos\\highstreet-campus\\trailer.mp4"
-        },
-        {
-          "text": "Campus Gameplay",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/652a-CFEBiU"
-        }
-      ],
-      "genre": [
-        "Metaverse",
-        "Multiplayer",
-        "social"
-      ],
-      "skills": [
-        "Unity",
-        "C#",
-        "JavaScript",
-        "WebGL",
-        "Multiplayer",
-        "Networking",
-        "Server Architecture",
-        "Mirror",
-        "Web3 Integration"
-      ],
-      "filterTags": [
-        "Unity",
-        "Multiplayer",
-        "Web"
-      ],
-      "features": [
-        "Metaverse entry point designed as a scalable social MMO hub",
-        "NFT shopping and social activity spaces across the campus",
-        "Travel pods connecting users from Campus to Highstreet Homes",
-        "VIP rooftop area with outdoor garden and social spaces",
-        "Salon shop and interactive interior spaces inside the campus",
-        "Dynamic lab system where players can swap lab interiors from an in-world console",
-        "Real-time synchronized interactions for shared systems like elevators and seats",
-        "Dynamic environment changes based on in-game events"
-      ],
-      "shortDescription": "Highstreet Campus was built as the company's metaverse entry point: a large-scale WebGL social hub with MMO-oriented networking, NFT commerce, and connected world travel into Highstreet Homes.",
-      "contributions": [
-        {
-          "title": "Custom MMO-Oriented Networking Layer",
-          "description": "Implemented a custom network system on top of Mirror transport after evaluating available options and identifying limitations in Unity's default networking for MMO-scale goals. The architecture supported different object variants per context (server, local client, and remote client) instead of forcing a single prefab model, enabling much greater flexibility, including cross-platform representation needs. I also implemented chunk-based data sharing so the server synchronized state primarily between players in the same region.",
-          "screenshot": []
-        },
-        {
-          "title": "Distributed Server Hierarchy Design",
-          "description": "Designed and implemented a server hierarchy where the main server focused on authoritative synchronization, while specialized 'server-client' workers handled domain logic for entities such as elevators and AI-driven actors. The longer-term architecture targeted distributed authority so regional services could handle local combat/AI and write back required player-impact data, reducing core server load and enabling cost-efficient scaling by spinning regional services up only when needed.",
-          "screenshot": []
-        },
-        {
-          "title": "Highstreet Homes Integration",
-          "description": "Integrated the previous Highstreet Homes experience into Campus despite both projects originally using different multiplayer structures. Delivered stable cross-project travel flow through travel pods and unified player transitions between systems.",
-          "screenshot": []
-        },
-        {
-          "title": "Unified Multi-Source Inventory System",
-          "description": "Built a layered inventory system combining NFTs, backend/unlockable items, location-specific local items, and additional Web3-related internal APIs. Implemented adapters for each data source and a unified inventory abstraction on top, making future source additions straightforward. The system drove player clothing, access rules, and location eligibility across the experience.",
-          "screenshot": []
-        },
-        {
-          "title": "Web Container Authentication Bridge",
-          "description": "Implemented authentication and web-to-game communication using JavaScript bridge functions with callback-based JSON responses. Replaced fragile direct function-name coupling with a generic integration layer that isolated game internals from web implementation details and supported continuous profile/data updates from the website while players were connected.",
-          "screenshot": []
-        },
-        {
-          "title": "Interaction Sync, UI, and Delivery Support",
-          "description": "Owned synchronization of campus interactions (elevators, seats, player clothes, emotes, and other shared actions), and contributed across bug fixing, UI implementation, and multiple feature deliveries required to keep releases stable.",
-          "screenshot": [
-            "src\\Assets\\Images\\highstreet-campus\\interaction-sync\\1.png",
-            "src\\Assets\\Images\\highstreet-campus\\interaction-sync\\2.png",
-            "src\\Assets\\Images\\highstreet-campus\\interaction-sync\\3.png",
-            "src\\Assets\\Images\\highstreet-campus\\interaction-sync\\4.png",
-            "src\\Assets\\Images\\highstreet-campus\\ui\\1.png",
-            "src\\Assets\\Images\\highstreet-campus\\ui\\2.png",
-            "src\\Assets\\Images\\highstreet-campus\\ui\\3.png",
-            "src\\Assets\\Images\\highstreet-campus\\ui\\4.png"
-          ]
-        }
-      ],
-      "links": [
-        {
-          "text": "Play Now",
-          "url": "https://www.highstreet.market/metaverse",
-          "type": "website"
-        }
-      ]
-    },
-    {
-      "id": "zinad-training-games",
-      "featured": true,
-      "published": true,
-      "name": "Zinad Security Training Games",
-      "platforms": [
-        "Web",
-        "VR",
-        "Kinect",
         "Android",
-        "iOS"
+        "iOS",
+        "Mobile"
       ],
-      "cover-image": "src\\Assets\\Images\\zinad-training-games\\cover.png",
+      "cover-image": "",
       "screenshots": [],
-      "videos": [
-        {
-          "text": "Cyber Emoji",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/PyKICJRs4eM?si=1MMLU5XOMP3g0ZHx"
-        },
-        {
-          "text": "The Office VR Gameplay",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/iGwV84Rlqzs?si=UB6DJReXwel6hR9V&amp;start=2"
-        },
-        {
-          "text": "Basketball",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/ycpl4R3FRQI?si=QLjj8-1iEIr-7EWI"
-        },
-        {
-          "text": "Archery ",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/BOqBdossA4g?si=_T-kgzyjO3x0YFkc"
-        },
-        {
-          "text": "Phishing Mania",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/9n7s8Xo2kWE?si=1MMLU5XOMP3g0ZHx"
-        },
-        {
-          "text": "Password Ninja",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/4h6j8qjQYpE?si=QLjj8-1iEIr-7EWI"
-        }
-      ],
+      "videos": [],
       "genre": [
-        "Training",
-        "Serious Games",
-        "Puzzle",
-        "Enterprise"
+        "Board Game",
+        "Multiplayer",
+        "Mobile"
       ],
       "skills": [
         "Unity",
         "C#",
-        "WebGL",
-        "VR",
-        "Kinect",
-        "Android",
-        "iOS",
-        "Leadership",
-        "Game Design",
-        "Enterprise Solutions"
+        "Photon PUN 2",
+        "Multiplayer",
+        "Client-Server Architecture",
+        "Extenject",
+        "Firebase",
+        "Unity Gaming Services",
+        "UI/UX",
+        "Figma",
+        "Localization"
       ],
       "filterTags": [
         "Unity",
-        "VR",
-        "Web",
-        "Android",
-        "iOS",
-        "Kinect"
+        "Multiplayer",
+        "Mobile"
       ],
       "features": [
-        "Multi-platform deployment (Web, VR, Kinect, Android, iOS)",
-        "Enterprise-grade security and data handling",
-        "Customizable content for different organizations",
-        "Engaging gameplay mechanics for learning retention",
-        "Accessible across different skill levels",
-        "Designed for large-scale employee training programs"
+        "Client-server multiplayer synchronization",
+        "Online lobby and matchmaking",
+        "Firebase and Google Sign-In integration",
+        "Google Play Games and Game Center integration",
+        "Analytics and in-app purchases",
+        "Leaderboards and achievements",
+        "Advertising integration",
+        "English, Arabic, and French localization",
+        "Daily rewards and challenges",
+        "Shop and rewards systems",
+        "Reusable popup and UI systems",
+        "Cross-platform mobile optimization"
       ],
-      "shortDescription": "A suite of serious games for cybersecurity awareness training, delivered for enterprise clients across multiple platforms.",
+      "shortDescription": "A multiplayer 2D board game continued and expanded from the original Sigato project, featuring online matchmaking, social systems, platform services, monetization, localization, and a modular Unity architecture.",
       "contributions": [
         {
-          "title": "Game Team Lead",
-          "description": "Led a team of three developers and an artist in the design and development of multiple cybersecurity training games, overseeing project timelines, coordinating tasks, and ensuring the delivery of high-quality training solutions for enterprise clients.",
+          "title": "Software Architecture",
+          "description": "Designed and implemented the project's software architecture using Extenject and Dependency Injection to create modular and maintainable systems.",
           "screenshot": []
         },
         {
-          "title": "Collaboration with Cross-Functional Teams",
-          "description": "Worked closely with web developers, DevOps teams, and QA teams to ensure smooth deployment and maintenance, while incorporating feedback for continuous improvement.",
+          "title": "Multiplayer Architecture",
+          "description": "Extended the multiplayer architecture with client-server synchronization, online communication, lobby, matchmaking, and real-time gameplay systems using Photon PUN 2.",
           "screenshot": []
         },
         {
-          "title": "Refactored Legacy Games to Meet Enterprise Standards",
-          "description": "Refactored legacy codebases of existing training games to improve performance, security, and maintainability. This included optimizing game logic, enhancing data handling practices, and ensuring compliance with enterprise security standards.",
+          "title": "UI/UX Design",
+          "description": "Designed the game's UI/UX independently using Figma and implemented the resulting interface in Unity.",
           "screenshot": []
         },
         {
-          "title": "Port Games to New Platforms (WebGL, VR, Kinect, Android, iOS)",
-          "description": "Led the porting of existing training games to new platforms, including WebGL for browser-based access, VR for immersive experiences, Kinect for motion-based interaction, and mobile platforms (Android and iOS) for on-the-go training. This involved adapting controls, optimizing performance, and ensuring a consistent user experience across all platforms.",
+          "title": "Platform Services",
+          "description": "Integrated Unity Gaming Services, Firebase, Google Sign-In, Google Play Games, and Game Center.",
           "screenshot": []
         },
         {
-          "title": "Client Customization System",
-          "description": "Implemented a flexible content management system that allowed for easy customization of game content to fit the specific security policies and branding requirements of different enterprise clients.",
-          "screenshot": []
-        },
-        {
-          "title": "Project Template and Delivery Pipeline",
-          "description": "Created a standardized project template and development pipeline for new training games, streamlining development and ensuring consistency across the suite. This reduced delivery time for new client training content from about 6 months to 2 months.",
-          "screenshot": []
-        },
-        {
-          "title": "Web Bridge",
-          "description": "Implemented authentication and web-to-game communication using JavaScript bridge functions with callback-based JSON responses. Replaced fragile direct function-name coupling with a generic integration layer that isolated game internals from web implementation details and supported continuous profile/data updates from the website while players were connected.",
-          "screenshot": []
-        },
-        {
-          "title": "Designed and Implemented New Games",
-          "description": "Designed and developed new training games based on emerging cybersecurity threats and client feedback, ensuring that the games remained relevant and effective in educating employees about current security risks.",
-          "screenshot": []
-        },
-        {
-          "title": "ZiSoft Mobile App (iOS, Android)",
-          "description": "Led development of the ZiSoft mobile app, which provided on-the-go access to training games and resources for employees. This included designing the app architecture, implementing core features, and adapting all games to run under one app while keeping each game in its own repository.",
-          "screenshot": []
-        },
-        {
-          "title": "Interactive video player for training content",
-          "description": "Developed an interactive video player for training content, allowing users to engage with the material through quizzes, annotations, and other interactive elements, enhancing the learning experience.",
-          "screenshot": []
-        },
-        {
-          "title": "HTML Page View for Web Games",
-          "description": "Implemented a system for displaying HTML pages inside web games to support phishing-email training, enabling realistic simulation of phishing emails and websites as part of training exercises.",
+          "title": "Live Game Systems",
+          "description": "Implemented analytics, in-app purchases, leaderboards, achievements, advertising, localization, daily rewards, challenges, shop, themes, audio, settings, and reusable popup systems.",
           "screenshot": []
         }
       ],
       "links": []
     },
     {
-      "id": "highstreet-homes",
+      "id": "sigato-v1",
       "featured": true,
       "published": true,
-      "name": "Highstreet Homes",
+      "name": "Sigato V1",
       "platforms": [
-        "MetaQuest",
-        "WebGL"
+        "Android"
       ],
-      "cover-image": "src\\Assets\\Images\\highstreet-homes\\1.jpg",
-      "screenshots": [
-        "src\\Assets\\Images\\highstreet-homes\\1.jpg",
-        "src\\Assets\\Images\\highstreet-homes\\2.jpg",
-        "src\\Assets\\Images\\highstreet-homes\\3.jpg",
-        "src\\Assets\\Images\\highstreet-homes\\4.jpg",
-        "src\\Assets\\Images\\highstreet-homes\\5.jpg",
-        "src\\Assets\\Images\\highstreet-homes\\6.jpg"
-      ],
+      "cover-image": "",
+      "screenshots": [],
       "videos": [],
-      "genre": [
-        "VR",
-        "Multiplayer",
-        "social"
-      ],
-      "skills": [
-        "Unity",
-        "C#",
-        "JavaScript",
-        "VR",
-        "WebGL",
-        "cross-platform",
-        "Multiplayer",
-        "Networking",
-        "Server Architecture",
-        "Mirror",
-        "Web3 Integration"
-      ],
-      "filterTags": [
-        "Unity",
-        "Multiplayer",
-        "Web",
-        "VR",
-        "cross-platform"
-      ],
-      "features": [
-        "Player homes with customizable furniture and decorations",
-        "NFT integration for inventory items and homes access",
-        "Cross-platform social interactions between web and VR users",
-        "Interactive activities within player homes",
-        "Travel pods connecting homes to the main campus",
-        "Player pets with interactive behaviors"
-      ],
-      "shortDescription": "Highstreet Homes was designed as a social experience where players could purchase and customize their own homes with NFTs, interact with friends, and connect to the main campus through travel pods.",
-      "contributions": [
-        {
-          "title": "Cross-Platform Multiplayer Architecture",
-          "description": "adapted the Unity network system to support cross-platform multiplayer interactions between WebGL and VR users",
-          "screenshot": []
-        },
-        {
-          "title": "Unified Multi-Source Inventory System",
-          "description": "Built a layered inventory system combining NFTs, backend/unlockable items, location-specific local items, and additional Web3-related internal APIs. Implemented adapters for each data source and a unified inventory abstraction on top, making future source additions straightforward.",
-          "screenshot": []
-        },
-        {
-          "title": "Furniture Placement System",
-          "description": "Designed and implemented a furniture placement system that allowed players to customize their homes with items purchased as NFTs or provided by the location. The system included intuitive controls for placing, rotating, and moving furniture.",
-          "screenshot": []
-        },
-        {
-          "title": "Sync Interactions",
-          "description": "Implemented synchronization for player interactions within homes, such as Moving furniture , video player , emotes , change avatar ,sitting on furniture, interacting with pets, and using items. This included managing state across different platforms and ensuring a consistent experience for all players.",
-          "screenshot": []
-        },
-        {
-          "title": "backend integration for home management",
-          "description": "Implemented backend services to manage player homes, including saving and loading home configurations using a Firebase backend.",
-          "screenshot": []
-        }
-      ],
-      "links": [
-        {
-          "text": "In Campus `Web Version`",
-          "url": "https://www.meta.com/en-gb/experiences/highstreet-homes/9352017631510878/",
-          "type": "website"
-        },
-        {
-          "text": "SideQuest `VR Version`",
-          "url": "https://sidequestvr.com/app/8343/highstreet-homes",
-          "type": "website"
-        }
-      ]
-    },
-    {
-      "id": "el3ab-estimation-kings",
-      "featured": true,
-      "published": true,
-      "name": "Estimation Kings",
-      "platforms": [
-        "Android",
-        "iOS",
-        "Web"
-      ],
-      "cover-image": "src\\Assets\\Images\\el3ab-estimation-kings\\cover.webp",
-      "screenshots": [
-        "src\\Assets\\Images\\el3ab-estimation-kings\\1.webp",
-        "src\\Assets\\Images\\el3ab-estimation-kings\\2.webp",
-        "src\\Assets\\Images\\el3ab-estimation-kings\\3.webp",
-        "src\\Assets\\Images\\el3ab-estimation-kings\\4.webp",
-        "src\\Assets\\Images\\el3ab-estimation-kings\\5.webp"
-      ],
-      "videos": [
-        {
-          "text": "Gameplay Trailer",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/-gvC4kBzuU8"
-        }
-      ],
-      "genre": [
-        "Card Game",
-        "Multiplayer",
-        "Mobile"
-      ],
-      "skills": [
-        "JavaScript",
-        "Phaser.js",
-        "Cordova",
-        "Multiplayer",
-        "Server Architecture",
-        "HTML/CSS",
-        "Unity",
-        "cocos2d-x",
-        "Web Development"
-      ],
-      "filterTags": [
-        "Android",
-        "iOS",
-        "Web",
-        "cross-platform",
-        "Multiplayer"
-      ],
-      "features": [
-        "Real-time multiplayer with global matchmaking",
-        "Comprehensive progression and leveling system",
-        "Social features including friend system and chat",
-        "Facebook integration for challenging friends",
-        "Multiple game environments and visual themes",
-        "Extensive avatar customization options",
-        "Quick communication with emotes and preset messages",
-        "Interactive actions and animations",
-        "Cross-platform support (Web and Mobile)",
-        "Free-to-play with ethical monetization"
-      ],
-      "shortDescription": "A polished multiplayer card game Published on Google Play. Features online matchmaking, progression system, social features, and cross-platform play.",
-      "contributions": [
-        {
-          "title": "Flash-to-cocos2d-js Migration",
-          "description": "Contributed to migrating the original Flash version to cocos2d-js for mobile deployment. Re-implemented core gameplay systems in JavaScript, optimized performance for mobile devices, and maintained feature parity while improving visuals and overall UX.",
-          "screenshot": []
-        },
-        {
-          "title": "Stage 2: Unity Migration & SmartFox Server Refactor",
-          "description": "Led the migration from cocos2d-js to Unity to improve cross-platform scalability and maintainability. Applied an MVC architecture to separate game logic from presentation, then refactored legacy SmartFoxServer code into a fully authoritative server model to improve stability, security, and gameplay consistency.",
-          "screenshot": []
-        },
-        {
-          "title": "Phaser.js + Cordova Release Pipeline",
-          "description": "Worked with the team lead on a new release built with Phaser.js and Cordova for web and mobile targets. Implemented the game navigation flow and built key front-end pages (server list, game settings, shop, and home screens) using HTML, CSS, and JavaScript.",
-          "screenshot": []
-        }
-      ],
-      "links": [
-        {
-          "text": "Download on Google Play [dead link]",
-          "url": "https://play.google.com/store/apps/details?id=com.el3ab.Estimation",
-          "type": "website"
-        },
-        {
-          "text": "Download on iTunes [dead link]",
-          "url": "https://itunes.apple.com/eg/app/id423988702",
-          "type": "website"
-        },
-        {
-          "text": "Facebook Game Page",
-          "url": "https://www.facebook.com/Estimation.Official.Page/",
-          "type": "facebook"
-        }
-      ]
-    },
-    {
-      "id": "project-tawla",
-      "featured": true,
-      "published": true,
-      "name": "3ashara Tawla",
-      "platforms": [
-        "Android",
-        "iOS"
-      ],
-      "cover-image": "src\\Assets\\Images\\project-tawla\\cover.png",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/gAVxkx_xtXAP46tau3tulXz0dLYVT-M2HheQmQKW_4UfStx46FbLn9Qn8UJsoKnerQY=w2560-h1440-rw",
-        "https://play-lh.googleusercontent.com/jv8loln9wlSJo38S54SY5NPARr_b5EDyeD8NfEMWDc6V6Kckg8nHCKMm9waZMZLRh2-C=w2560-h1440-rw",
-        "https://play-lh.googleusercontent.com/fKB6w7Qu5ffIDOKTr7m6UMpQo6T_XOth3APRUmF98gyPadt1C31tPSszrnuWmdoEjw=w2560-h1440-rw",
-        "https://play-lh.googleusercontent.com/w6y5DfRVEStQW402GFX17sjYf9bOvFj_PwoVj3BCAfNaoWJToras76CRieoQnuqMDw=w2560-h1440-rw",
-        "https://play-lh.googleusercontent.com/DqslayMOQ2SkCGdd92Kdc5i0EQSwcKMBX7n9g18_N1QO9XigM-hiyMQCi3oFIlH-kmIA=w2560-h1440-rw"
-      ],
-      "videos": [
-        {
-          "text": "Gameplay Trailer",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/XcUdxVhAFaA?si=FE4xtBT2UKx8rhKa"
-        }
-      ],
       "genre": [
         "Board Game",
         "Multiplayer",
@@ -951,606 +547,570 @@
         "Unity",
         "C#",
         "Multiplayer",
-        "AI",
-        "Game Design",
-        "Mobile Development"
+        "Client-Server Architecture",
+        "Lobby",
+        "Matchmaking",
+        "Real-Time Synchronization"
       ],
       "filterTags": [
         "Unity",
-        "Android",
-        "iOS",
-        "Multiplayer"
+        "Multiplayer",
+        "Android"
       ],
       "features": [
-        "Two unique game modes: Ma7bosa and Thirteen",
-        "Advanced AI with multiple difficulty levels",
-        "Online multiplayer with matchmaking",
-        "Extensive character customization system",
-        "Multiple visual themes and boards",
-        "Social features and friend challenges",
-        "Tournament and ranked play modes",
-        "Cross-platform progression"
+        "Real-time client-server synchronization",
+        "Multiplayer gameplay",
+        "Lobby system",
+        "Matchmaking pipeline",
+        "Online communication states",
+        "Google Play deployment"
       ],
-      "shortDescription": "Modern take on the classic Middle Eastern backgammon game featuring online multiplayer, advanced AI, and extensive customization options.",
+      "shortDescription": "Multiplayer 2D board game developed and launched on Google Play, establishing the gameplay, UI, and networking foundation later expanded in Sigato V2.",
       "contributions": [
         {
-          "title": "Core Gameplay Systems",
-          "description": "Implemented the core game logic for both Ma7bosa and Thirteen modes, including turn management, move validation, and win condition checking.",
+          "title": "Multiplayer Gameplay",
+          "description": "Implemented real-time client-server synchronization and multiplayer gameplay systems.",
           "screenshot": []
         },
         {
-          "title": "AI Opponent Development",
-          "description": "Designed and implemented an advanced AI system with multiple difficulty levels, providing a challenging experience for players of all skill levels.",
+          "title": "Lobby & Matchmaking",
+          "description": "Built the lobby and matchmaking pipelines required for online multiplayer sessions.",
           "screenshot": []
         },
         {
-          "title": "Online Multiplayer Implementation",
-          "description": "Built the online multiplayer infrastructure, including matchmaking, real-time game state synchronization, and cross-platform progression support.",
+          "title": "Networking Architecture",
+          "description": "Established the initial gameplay, UI, and networking architecture that became the foundation for Sigato V2.",
           "screenshot": []
         }
       ],
-      "links": [
-        {
-          "text": "Android",
-          "url": "https://play.google.com/store/apps/details?id=com.EgyptGames.Tawla",
-          "type": "PlayStore"
-        },
-        {
-          "text": "iOS",
-          "url": "https://apps.apple.com/eg/app/10-tawla/id1569696163",
-          "type": "AppStore"
-        }
-      ]
+      "links": []
     },
     {
-      "id": "ComfyUI QualityOfLifeSuit",
+      "id": "scivr-vr-applications",
       "featured": true,
       "published": true,
-      "name": "ComfyUI-QualityOfLifeSuit",
+      "name": "Scivr VR / XR Educational Applications",
       "platforms": [
-        "ComfyUI"
+        "Meta Quest",
+        "Pico",
+        "WebGL"
       ],
-      "cover-image": "src\\Assets\\Images\\comfyui-qof\\Cover.png",
-      "screenshots": [
-        "https://opengraph.githubassets.com/1/omar92/ComfyUI-QualityOfLifeSuit_Omar92",
-        "https://api.star-history.com/svg?repos=omar92/ComfyUI-QualityOfLifeSuit_Omar92&type=Date&theme=dark"
-      ],
-      "videos": [],
-      "genre": [
-        "AI",
-        "Image generation",
-        "Open Source",
-        "Tools"
-      ],
-      "skills": [
-        "Python",
-        "AI",
-        "ComfyUI",
-        "Open Source"
-      ],
-      "filterTags": [
-        "AI",
-        "Vibe Coded"
-      ],
-      "features": [
-        "Custom nodes for enhanced workflow efficiency",
-        "Quality-of-life improvements for ComfyUI interface",
-        "Integration with stable diffusion pipelines",
-        "Active community with 176+ GitHub stars",
-        "Regular updates and maintenance",
-        "Open-source and well-documented"
-      ],
-      "shortDescription": "A comprehensive suite of quality-of-life nodes for ComfyUI, the powerful stable diffusion GUI. Featured in the ComfyUI ecosystem with 176 stars and 23 forks on GitHub.",
-      "contributions": [
-        {
-          "title": "Ai prompt enhancer node",
-          "description": "Implemented a node that uses AI to enhance and expand text prompts for stable diffusion, allowing users to generate more detailed and creative outputs with minimal effort.",
-          "screenshot": [
-            "src\\Assets\\Images\\comfyui-qof\\AiPromptEnhancer.png"
-          ]
-        },
-        {
-          "title": "Open AI APIs as Nodes (ChatGPT, DALL-E)",
-          "description": "Integrated OpenAI APIs as nodes within ComfyUI, enabling advanced AI functionalities and seamless interaction with external AI services.",
-          "screenshot": [
-            "src\\Assets\\Images\\comfyui-qof\\openai.png",
-            "src\\Assets\\Images\\comfyui-qof\\OpenAiApisNodes.png"
-          ]
-        },
-        {
-          "title": "Equation Node",
-          "description": "Created a versatile equation node that allows users to perform complex mathematical operations within their ComfyUI workflows, enhancing the flexibility and power of their AI pipelines.",
-          "screenshot": [
-            "src\\Assets\\Images\\comfyui-qof\\EquationNode.png"
-          ]
-        },
-        {
-          "title": "Text2image node",
-          "description": "Developed a custom Text2Image that convert text to image which can be used as mask or soemthing in the workflow",
-          "screenshot": [
-            "src\\Assets\\Images\\comfyui-qof\\Text2ImageUsage.png",
-            "src\\Assets\\Images\\comfyui-qof\\Text2Image.png"
-          ]
-        }
-      ],
-      "links": [
-        {
-          "text": "View on CivitAI",
-          "url": "https://civitai.com/models/21996?modelVersionId=39288",
-          "type": "website"
-        },
-        {
-          "text": "View on GitHub",
-          "url": "https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92",
-          "type": "github"
-        }
-      ]
-    },
-    {
-      "id": "portfolio-vibe-coded",
-      "featured": false,
-      "published": true,
-      "name": "Portfolio & JSON Visual Editor",
-      "platforms": [
-        "Web"
-      ],
-      "cover-image": "src\\Assets\\Images\\portfolio-vibe-coded\\cover.png",
-      "screenshots": [
-        "src\\Assets\\Images\\portfolio-vibe-coded\\cover.png",
-        "src\\Assets\\Images\\portfolio-vibe-coded\\editor.png"
-      ],
-      "videos": [],
-      "genre": [
-        "Web",
-        "Developer Tools"
-      ],
-      "skills": [
-        "React",
-        "TypeScript",
-        "Vite",
-        "Tailwind CSS",
-        "JSON Schema",
-        "UI/UX"
-      ],
-      "filterTags": [
-        "Web",
-        "Vibe Coded"
-      ],
-      "features": [
-        "Vibe coded portfolio website with a clean, responsive UI",
-        "Built-in visual editor for portfolio.json (no manual raw JSON editing required)",
-        "Schema-aware add/remove flows to protect data structure integrity",
-        "Section and item focus mode for fast content editing",
-        "Media preview support for images and screenshots during editing"
-      ],
-      "shortDescription": "A vibe coded portfolio project built with React and TypeScript, featuring a full visual editor for managing portfolio content safely.",
-      "contributions": [
-        {
-          "title": "Vibe Coded UX and Frontend Architecture",
-          "description": "Designed and implemented the portfolio UI and interaction model using React, TypeScript, and Tailwind CSS, with an emphasis on readability, speed, and modern visual style.",
-          "screenshot": []
-        },
-        {
-          "title": "Visual JSON Editor",
-          "description": "Built a schema-driven editor for portfolio.json with nested field editing, array item management, and focused editing workflows that reduce content update friction.",
-          "screenshot": [
-            "src\\Assets\\Images\\portfolio-vibe-coded\\editor.png"
-          ]
-        },
-        {
-          "title": "Data Safety and Media Editing Enhancements",
-          "description": "Implemented structure-safe creation flows, section/item navigation behavior, and media editing improvements including preview-first UX for image-related fields.",
-          "screenshot": []
-        }
-      ],
-      "links": [
-        {
-          "text": "Live Site",
-          "url": "https://omar92.github.io/",
-          "type": "website"
-        },
-        {
-          "text": "GitHub Repository",
-          "url": "https://github.com/omar92/omar92.github.io",
-          "type": "github"
-        }
-      ]
-    },
-    {
-      "id": "project-unreal-games",
-      "featured": false,
-      "published": false,
-      "name": "Unreal 5 C++ Developer: Code Your Own Unreal Games",
-      "platforms": [
-        "PC"
-      ],
-      "cover-image": "src\\Assets\\Images\\project-unreal-games\\cover.png",
+      "cover-image": "",
       "screenshots": [],
       "videos": [],
       "genre": [
-        "Shooter",
-        "Puzzle",
+        "VR",
+        "XR",
+        "Education",
+        "Medical",
+        "Scientific",
+        "Training"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "VRIF",
+        "OpenXR",
+        "VR",
+        "XR",
+        "Meta Quest",
+        "Pico",
+        "WebGL",
+        "UI",
+        "Simulation"
+      ],
+      "filterTags": [
+        "Unity",
+        "VR",
+        "XR",
+        "WebGL",
+        "Education"
+      ],
+      "features": [
+        "Standalone VR applications for Meta Quest and Pico",
+        "Interactive VR educational experiences",
+        "Medical and dental training applications",
+        "Scientific and mathematics experiences",
+        "Biology educational projects",
+        "CTE educational projects",
+        "Interactive virtual tours",
+        "WebGL browser experiences",
+        "Immersive object manipulation and interaction",
+        "Optimized standalone VR deployment"
+      ],
+      "shortDescription": "A collection of VR/XR, educational, medical, scientific, and interactive Unity applications developed for standalone VR headsets and WebGL platforms.",
+      "contributions": [
+        {
+          "title": "VR Application Development",
+          "description": "Developed multiple VR projects using VRIF, implementing immersive interactions, object manipulation, UI, navigation, animation, audio, and interactive workflows.",
+          "screenshot": []
+        },
+        {
+          "title": "Standalone VR Optimization",
+          "description": "Built and optimized applications for Meta Quest and Pico standalone VR hardware.",
+          "screenshot": []
+        },
+        {
+          "title": "Medical & Educational Experiences",
+          "description": "Developed medical and dental VR applications including Dentist, Dentist Hygiene, Skin Care, and related training experiences, along with Mathematics, Biology, and CTE educational projects.",
+          "screenshot": []
+        },
+        {
+          "title": "Virtual Tours",
+          "description": "Developed interactive VR virtual tours including Pizza Tower and Acropolis experiences.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "01skills-robotics",
+      "featured": true,
+      "published": true,
+      "name": "01Skills Robotics Simulation & Visual Programming",
+      "platforms": [
+        "PC",
+        "WebGL"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "EdTech",
+        "Robotics",
+        "Simulation",
+        "Visual Programming"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "Blockly",
+        "Python",
+        "LEGO EV3",
+        "LEGO SPIKE",
+        "Visual Programming",
+        "Code Generation",
+        "Custom Editors",
+        "Simulation"
+      ],
+      "filterTags": [
+        "Unity",
+        "EdTech",
+        "Robotics",
+        "Blockly"
+      ],
+      "features": [
+        "LEGO EV3 and SPIKE-style robotics simulation",
+        "Block-based programming",
+        "Loops, conditions, logic, and comparisons",
+        "Arithmetic expressions and variables",
+        "Robot movement and sensor control",
+        "Complex nested mathematical and logical expressions",
+        "Block-to-Python code generation",
+        "Code-to-Blocks workflows",
+        "Project loading and saving",
+        "Robotics mission simulation",
+        "Programming challenges and competitions"
+      ],
+      "shortDescription": "Educational robotics and programming platform supporting simulated LEGO robotics, block-based programming, Python code generation, missions, challenges, and interactive learning.",
+      "contributions": [
+        {
+          "title": "Robotics Simulation",
+          "description": "Developed and enhanced robotics simulation supporting LEGO EV3 and SPIKE-style programming and connected simulated robot behavior with programming logic.",
+          "screenshot": []
+        },
+        {
+          "title": "Block-Based Programming",
+          "description": "Extended block programming with loops, conditions, logic, comparisons, arithmetic, variables, robot movement, sensors, and control structures.",
+          "screenshot": []
+        },
+        {
+          "title": "Block-to-Python & Code-to-Blocks",
+          "description": "Built a custom programming editor supporting conversion between block-based programming and Python code, including portable Python code generation.",
+          "screenshot": []
+        },
+        {
+          "title": "Panama Robotics Mission",
+          "description": "Worked on the Panama educational robotics mission, including robot simulation, block programming, mission objectives, and execution logic.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "pstc-gamified-mobile",
+      "featured": false,
+      "published": true,
+      "name": "PSTC Gamified Mobile Application",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "Multiplayer",
+        "Mobile",
+        "Gamification"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "AppWarp",
+        "Multiplayer",
+        "Authentication",
+        "Chat",
+        "Unity Ads",
+        "Start.io",
+        "Performance Optimization"
+      ],
+      "filterTags": [
+        "Unity",
+        "Multiplayer",
+        "Mobile"
+      ],
+      "features": [
+        "Real-time multiplayer",
+        "Multiplayer rooms",
+        "Synchronized game states",
+        "Secure authentication",
+        "User profiles",
+        "Guest sessions",
+        "Live chat rooms",
+        "Unity Ads",
+        "Start.io integration",
+        "Mobile performance optimization"
+      ],
+      "shortDescription": "A multiplayer gamified mobile application integrated into the InsuranceMarket platform, featuring real-time multiplayer, authentication, profiles, chat, and advertising.",
+      "contributions": [
+        {
+          "title": "Real-Time Multiplayer",
+          "description": "Implemented multiplayer rooms, real-time communication, and synchronized game states using the AppWarp networking plugin.",
+          "screenshot": []
+        },
+        {
+          "title": "Authentication & Social Systems",
+          "description": "Built secure login/sign-up authentication, user profiles, guest sessions, and real-time live chat rooms.",
+          "screenshot": []
+        },
+        {
+          "title": "Mobile Optimization",
+          "description": "Performed texture compression, script refactoring, code profiling, and asset optimization to improve application size and runtime performance on mobile devices.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "vr-clean-desk-policy",
+      "featured": true,
+      "published": true,
+      "name": "VR Clean Desk Policy",
+      "platforms": [
+        "Meta Quest",
+        "VR"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "VR",
+        "Training",
+        "Simulation"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "VR",
+        "VR Interaction",
+        "Spatial Audio",
+        "Training Simulation"
+      ],
+      "filterTags": [
+        "Unity",
+        "VR",
+        "Training"
+      ],
+      "features": [
+        "Interactive workplace training",
+        "VR object manipulation",
+        "Task-based workflows",
+        "Spatial audio",
+        "Narration",
+        "Standalone VR deployment"
+      ],
+      "shortDescription": "A Unity-based VR workplace training simulation focused on interactive tasks, object manipulation, spatial audio, and guided learning workflows.",
+      "contributions": [
+        {
+          "title": "VR Interaction Systems",
+          "description": "Implemented VR interactions and object manipulation for a standalone VR training experience.",
+          "screenshot": []
+        },
+        {
+          "title": "Training Workflows",
+          "description": "Developed task-based workflows, spatial audio, and narration to guide users through the workplace training experience.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "getmoney",
+      "featured": false,
+      "published": true,
+      "name": "GetMoney",
+      "platforms": [
+        "PC",
+        "Web"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "Economic Simulation",
+        "Simulation"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "PHP",
+        "MySQL",
+        "REST APIs",
+        "Backend Development"
+      ],
+      "filterTags": [
+        "Unity",
+        "Backend",
+        "Simulation"
+      ],
+      "features": [
+        "Economic simulation gameplay",
+        "Custom backend",
+        "REST API integration",
+        "MySQL data storage",
+        "Unity-server communication"
+      ],
+      "shortDescription": "An economic simulation game developed using Unity, PHP, and MySQL with custom REST APIs connecting gameplay systems to server-side data.",
+      "contributions": [
+        {
+          "title": "Gameplay Systems",
+          "description": "Developed gameplay and economic simulation systems in Unity.",
+          "screenshot": []
+        },
+        {
+          "title": "Backend Integration",
+          "description": "Built custom backend functionality using PHP and MySQL and connected Unity gameplay systems through REST APIs.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "ar-card-gameplay-system",
+      "featured": true,
+      "published": true,
+      "name": "AR Card Gameplay System",
+      "platforms": [
+        "Android",
+        "iOS",
+        "AR"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "AR",
+        "Interactive",
+        "Gameplay"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "AR",
+        "Image Tracking",
+        "Marker Tracking",
+        "UI"
+      ],
+      "filterTags": [
+        "Unity",
+        "AR"
+      ],
+      "features": [
+        "Physical card recognition",
+        "Image and marker tracking",
+        "Virtual gameplay mapping",
+        "AR interaction",
+        "Physical-to-digital gameplay bridge"
+      ],
+      "shortDescription": "An augmented reality system that recognizes physical cards and maps them to virtual interfaces and gameplay elements inside Unity.",
+      "contributions": [
+        {
+          "title": "AR Tracking System",
+          "description": "Developed an AR tracking system mapping physical cards and anchors to virtual interfaces and gameplay elements.",
+          "screenshot": []
+        },
+        {
+          "title": "Physical-to-Digital Interaction",
+          "description": "Implemented image and marker tracking to recognize physical cards and connect them with corresponding digital interactions.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "ai-computer-vision",
+      "featured": false,
+      "published": true,
+      "name": "AI & Computer Vision",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ],
+      "skills": [
+        "Unity",
+        "C#",
+        "Unity Sentis",
+        "Unity ML-Agents",
+        "AI Behavior Trees",
+        "Computer Vision",
+        "Object Detection"
+      ],
+      "filterTags": [
+        "Unity",
+        "AI",
+        "Computer Vision"
+      ],
+      "features": [
+        "Unity Sentis experiments",
+        "Unity ML-Agents",
+        "AI behavior trees",
+        "Object detection",
+        "Computer vision experiences"
+      ],
+      "shortDescription": "Unity-based AI and computer vision experiences using Unity Sentis, ML-Agents, behavior trees, and object detection technologies.",
+      "contributions": [
+        {
+          "title": "AI & Machine Learning",
+          "description": "Developed Unity-based AI experiences using Unity Sentis and Unity ML-Agents.",
+          "screenshot": []
+        },
+        {
+          "title": "Computer Vision",
+          "description": "Developed computer vision experiences involving object detection and recognition.",
+          "screenshot": []
+        }
+      ],
+      "links": []
+    },
+    {
+      "id": "cinema-cars-race",
+      "featured": false,
+      "published": true,
+      "name": "Cinema Cars Race",
+      "platforms": [
+        "PC",
+        "Mobile"
+      ],
+      "cover-image": "",
+      "screenshots": [],
+      "videos": [],
+      "genre": [
+        "Racing",
         "Action"
       ],
       "skills": [
-        "Unreal Engine",
-        "C++"
-      ],
-      "filterTags": [
-        "PC",
-        "Unreal Engine",
-        "Learning"
-      ],
-      "features": [
-        "Battle Blaster: Multiplayer shooter with advanced combat mechanics",
-        "ShooterSam: Third-person shooter with sophisticated AI",
-        "Dungeon Escape: Atmospheric puzzle-action game"
-      ],
-      "shortDescription": "Personal projects built to learn Unreal Engine, featuring a multiplayer shooter, an AI-driven third-person shooter, and a puzzle-action game.",
-      "contributions": [
-        {
-          "title": "Obstacle Assault",
-          "description": "",
-          "screenshot": [
-            "src\\Assets\\Images\\project-unreal-games\\ObstacleAssault.png"
-          ]
-        },
-        {
-          "title": "Dungeon Escape",
-          "description": "Developed an atmospheric puzzle-action game that emphasizes environmental storytelling and player immersion through level design and visual effects.",
-          "screenshot": [
-            "src\\Assets\\Images\\project-unreal-games\\DungeonEscape.png"
-          ]
-        },
-        {
-          "title": "Battle Blaster",
-          "description": "Designed and implemented a multiplayer shooter with advanced combat mechanics, including cover systems, weapon variety, and dynamic environments.",
-          "screenshot": [
-            "src\\Assets\\Images\\project-unreal-games\\BattleBlaster.png"
-          ]
-        },
-        {
-          "title": "ShooterSam [in progress]",
-          "description": "Created a third-person shooter featuring sophisticated AI opponents with varied behaviors and tactics, showcasing Unreal's AI capabilities.",
-          "screenshot": [
-            "src\\Assets\\Images\\project-unreal-games\\ShooterSam.png"
-          ]
-        }
-      ],
-      "links": [
-        {
-          "text": "course on gamedev.tv",
-          "url": "https://gamedev.tv/courses/unreal-c-dev",
-          "type": "website"
-        },
-        {
-          "text": "Battle Blaster on GitHub",
-          "url": "https://github.com/omar92/BattleBlaster_Unreal",
-          "type": "github"
-        },
-        {
-          "text": "ShooterSam on GitHub",
-          "url": "https://github.com/omar92/ShooterSam_Unreal",
-          "type": "github"
-        }
-      ]
-    },
-    {
-      "id": "iti-rhythm-attack",
-      "featured": false,
-      "published": false,
-      "name": "Rhythm Attack VR",
-      "platforms": [
-        "VR"
-      ],
-      "cover-image": "src\\Assets\\Images\\iti-rhythm-attack\\cover.jpg",
-      "screenshots": [
-        "src\\Assets\\Images\\iti-rhythm-attack\\1.jpg",
-        "src\\Assets\\Images\\iti-rhythm-attack\\2.jpg",
-        "src\\Assets\\Images\\iti-rhythm-attack\\3.png"
-      ],
-      "videos": [
-        {
-          "text": "Story Trailer",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/C-O4k4yMaR8"
-        },
-        {
-          "text": "Gameplay Video",
-          "type": "youtube",
-          "url": "https://www.youtube.com/embed/ElA8NzXpk4E"
-        }
-      ],
-      "genre": [
-        "VR",
-        "Rhythm",
-        "Action",
-        "Music"
-      ],
-      "skills": [
         "Unity",
         "C#",
-        "VR",
-        "Game Design",
-        "Audio Synchronization",
-        "Visual Effects"
-      ],
-      "filterTags": [
-        "VR",
-        "Unity"
-      ],
-      "features": [
-        "Immersive VR gameplay with motion controls",
-        "Dynamic difficulty system that adapts to player skill",
-        "Original soundtrack and sound design",
-        "Custom 3D art and character designs",
-        "Hand-crafted visual effects",
-        "Rhythm-based combat mechanics",
-        "Award-winning ITI graduation project"
-      ],
-      "shortDescription": "Award-winning VR rhythm game combining music, action, and innovative gameplay. ITI graduation project featuring custom art, music, and VFX - 100% original content.",
-      "contributions": [
-        {
-          "title": "Lead Developer & Co-Designer",
-          "description": "Led the development of core gameplay systems, including rhythm synchronization, combat mechanics, and dynamic difficulty. Collaborated on overall game design and flow.",
-          "screenshot": []
-        },
-        {
-          "title": "Created Scriptable Object-Based Data Architecture",
-          "description": "Designed and implemented a flexible data architecture using Unity's Scriptable Objects. which provided high felxibility for the team to create and tweak game content (enemies, levels, music cues, etc) without requiring code changes. This system became a foundational tool for the entire project and was used extensively across all content creation.",
-          "screenshot": []
-        },
-        {
-          "title": "Audio Synchronization System",
-          "description": "Implemented a robust audio synchronization system that ensured precise timing between music beats and gameplay events, creating a seamless rhythm-based experience.",
-          "screenshot": []
-        },
-        {
-          "title": "Visual Effects Implementation",
-          "description": "Designed and implemented custom visual effects that enhanced the game's immersive atmosphere and provided feedback for player actions.",
-          "screenshot": []
-        }
-      ],
-      "links": [
-        {
-          "text": "View on GitHub",
-          "url": "https://github.com/omar92/RhythmAttack-VR",
-          "type": "github"
-        },
-        {
-          "text": "Track Description",
-          "url": "https://iti.gov.eg/diplomaStructure/139758dc-e1ee-4d2c-ba87-08dbe615d378/tracks/20661d06-0056-40a8-627a-08dbe68d3d73/f84a5c67-29ae-4584-fe16-08dbe75ac461",
-          "type": "website"
-        },
-        {
-          "text": "SO State Machine",
-          "url": "https://github.com/omar92/so_statemachine",
-          "type": "github"
-        },
-        {
-          "text": "SO Events & Variables",
-          "url": "https://github.com/omar92/SOEventsVariables",
-          "type": "github"
-        },
-        {
-          "text": "SO System",
-          "url": "https://github.com/omar92/SO_System",
-          "type": "github"
-        }
-      ]
-    },
-    {
-      "id": "dots-behaviour-tree",
-      "featured": false,
-      "published": false,
-      "name": "DOTS Behaviour Tree",
-      "platforms": [
-        "Unity",
-        "ECS/DOTS"
-      ],
-      "cover-image": "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\1.png",
-      "screenshots": [
-        "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\1.png",
-        "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\2.png",
-        "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\3.png",
-        "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\4.png",
-        "src\\Assets\\Images\\highstreet-calamity\\dots-behaviour-tree\\5.png"
-      ],
-      "videos": [],
-      "genre": [
-        "Tools",
-        "AI",
-        "Framework",
-        "Open Source"
-      ],
-      "skills": [
-        "Unity",
-        "DOTS",
-        "C#",
-        "Behaviour Tree",
-        "Visual Editor"
+        "Vehicle Systems",
+        "Gameplay",
+        "UI"
       ],
       "filterTags": [
         "Unity",
-        "Tools"
+        "Racing"
       ],
       "features": [
-        "ECS-native behaviour tree execution with nodes baked into entities",
-        "Visual node-graph editor for authoring trees in Unity",
-        "Runtime inspector to watch node status transitions live during play mode",
-        "Built-in composite nodes: Sequencer, Selector, Parallel, Random, and Repeater",
-        "Condition combinators: AND, OR, and NOT for flexible decision gating",
-        "Interrupt system for high-priority preemption and control handoff",
-        "Script templates for custom Action, Condition, Composite, and Interrupt nodes"
+        "Vehicle gameplay",
+        "Racing systems",
+        "Interactive environments",
+        "Gameplay UI"
       ],
-      "shortDescription": "A high-performance Behaviour Tree framework for Unity DOTS/ECS with a visual editor, runtime inspector, interrupts, and extensible custom node templates.",
+      "shortDescription": "A Unity racing experience involving vehicle gameplay systems, UI, and interactive environments.",
       "contributions": [
         {
-          "title": "ECS-Native Behaviour Tree Runtime",
-          "description": "Implemented a DOTS-first execution model where authored tree nodes are baked into ECS entities and updated by ECS systems for scalable runtime performance.",
+          "title": "Racing Gameplay",
+          "description": "Developed gameplay systems and vehicle-related mechanics for the racing experience.",
           "screenshot": []
         },
         {
-          "title": "Visual Authoring + Runtime Inspector Tooling",
-          "description": "Built editor tooling for graph-based tree authoring and runtime state inspection, enabling faster iteration and easier debugging of node state transitions.",
-          "screenshot": []
-        },
-        {
-          "title": "Extensible Node, Condition, and Interrupt Architecture",
-          "description": "Designed an extensible framework with templates and base classes for custom Action/Condition/Interrupt nodes, including condition combinators and interrupt preemption flows.",
+          "title": "UI & Interactive Environment",
+          "description": "Implemented UI and interactive environment elements supporting the racing experience.",
           "screenshot": []
         }
       ],
-      "links": [
-        {
-          "text": "View on GitHub",
-          "url": "https://github.com/M-Hamdy23/DotsBehaviourTree",
-          "type": "github"
-        }
-      ]
+      "links": []
     },
     {
-      "id": "so-unity-tools",
+      "id": "unity-matching-game",
       "featured": false,
-      "published": false,
-      "name": "Scriptable Object Unity Tools",
+      "published": true,
+      "name": "Unity Matching Game",
       "platforms": [
-        "Unity"
+        "Android",
+        "iOS",
+        "PC"
       ],
-      "cover-image": "https://opengraph.githubassets.com/1/omar92/SO_System",
+      "cover-image": "",
       "screenshots": [],
       "videos": [],
       "genre": [
-        "Tools"
+        "Puzzle",
+        "Matching",
+        "Casual"
       ],
       "skills": [
         "Unity",
         "C#",
-        "Architecture",
-        "Framework Design",
-        "Object-Oriented Design",
-        "Data-Driven Development",
-        "Scriptable Object"
-      ],
-      "filterTags": [
-        "Unity",
-        "Tools"
-      ],
-      "features": [
-        "SO State Machine: Scriptable Object-based state machine system with visual debugging",
-        "SO Events & Variables: Event-driven architecture system for decoupled communication",
-        "SO System: Comprehensive Scriptable Object framework for data-driven design"
-      ],
-      "shortDescription": "A suite of Unity tools leveraging Scriptable Objects to enable data-driven development, decoupled architecture, and visual debugging for game systems.",
-      "contributions": [
-        {
-          "title": "SO State Machine",
-          "description": "Designed and implemented a Scriptable Object-based state machine system that allows developers to create complex state behaviors without writing code, featuring visual debugging tools for easy troubleshooting.",
-          "screenshot": [
-            "https://opengraph.githubassets.com/1/omar92/so_statemachine",
-            "https://api.star-history.com/svg?repos=omar92/so_statemachine&type=Date&theme=dark"
-          ]
-        },
-        {
-          "title": "SO Events & Variables",
-          "description": "Created an event-driven architecture system using Scriptable Objects that enables decoupled communication between game systems, allowing for more modular and maintainable code.",
-          "screenshot": [
-            "https://opengraph.githubassets.com/1/omar92/SOEventsVariables",
-            "https://api.star-history.com/svg?repos=omar92/SOEventsVariables&type=Date&theme=dark"
-          ]
-        },
-        {
-          "title": "SO System",
-          "description": "Developed a comprehensive framework for data-driven design in Unity using Scriptable Objects, providing a structured approach to managing game data and logic without hardcoding dependencies.",
-          "screenshot": [
-            "https://opengraph.githubassets.com/1/omar92/SO_System",
-            "https://api.star-history.com/svg?repos=omar92/SO_System&type=Date&theme=dark"
-          ]
-        }
-      ],
-      "links": [
-        {
-          "text": "SO State Machine",
-          "url": "https://github.com/omar92/so_statemachine",
-          "type": "github"
-        },
-        {
-          "text": "SO Events & Variables",
-          "url": "https://github.com/omar92/SOEventsVariables",
-          "type": "github"
-        },
-        {
-          "text": "SO System",
-          "url": "https://github.com/omar92/SO_System",
-          "type": "github"
-        }
-      ]
-    },
-    {
-      "id": "optimized-unity-scroll-list",
-      "featured": false,
-      "published": false,
-      "name": "Optimized Unity Scroll List",
-      "category": "Unity Tooling",
-      "platforms": [
-        "Unity"
-      ],
-      "cover-image": "https://opengraph.githubassets.com/1/omar92/Optmized-unity-scroll-list",
-      "screenshots": [
-        "https://opengraph.githubassets.com/1/omar92/Optmized-unity-scroll-list"
-      ],
-      "videos": [],
-      "genre": [
-        "Tools",
+        "Gameplay",
         "UI",
-        "Performance",
-        "Open Source"
-      ],
-      "skills": [
-        "Unity",
-        "C#",
-        "UGUI",
-        "Object Pooling",
-        "Performance Optimization",
-        "ScriptableObject Architecture"
+        "Progression",
+        "Rewards"
       ],
       "filterTags": [
         "Unity",
-        "Tools"
+        "Puzzle",
+        "Mobile"
       ],
       "features": [
-        "Virtual scrolling with object pooling so only visible items are instantiated",
-        "Smooth handling of 1000+ items with low draw calls and mobile-friendly performance",
-        "Supports both horizontal and vertical ScrollRect layouts",
-        "Responsive rebuilding when the viewport size changes",
-        "OnItemShow and OnItemHide callbacks for clean data binding on recycled items",
-        "Includes a decoupled ScriptableObject-based demo architecture"
+        "Matching gameplay",
+        "Puzzle mechanics",
+        "Progression systems",
+        "Rewards",
+        "Interactive UI"
       ],
-      "shortDescription": "High-performance Unity scroll list system with pooled, virtualized items for large datasets and smooth scrolling.",
+      "shortDescription": "A Unity matching and puzzle game featuring gameplay, UI, progression, rewards, and interactive systems.",
       "contributions": [
         {
-          "title": "Virtualized ScrollRect Pooling System",
-          "description": "Built the core ListOptmizer component to calculate visible ranges, recycle pooled UI items, and maintain front and rear filler elements so large lists scroll smoothly without the cost of thousands of instantiated objects.",
+          "title": "Gameplay Systems",
+          "description": "Developed the core matching and puzzle gameplay systems.",
           "screenshot": []
         },
         {
-          "title": "Inspector-Friendly Item Lifecycle Hooks",
-          "description": "Implemented OnItemShow and OnItemHide callback flows, plus OptmizedListItem UnityEvent hooks, so recycled cells can be rebound cleanly from code or directly through the Unity Inspector.",
-          "screenshot": []
-        },
-        {
-          "title": "ScriptableObject Demo Integration",
-          "description": "Structured the demo around ScriptableObject variables and event channels to keep inventory data, selection state, and UI updates decoupled while still being easy to wire up in-editor.",
+          "title": "Progression & Rewards",
+          "description": "Implemented progression, rewards, and interactive UI systems.",
           "screenshot": []
         }
       ],
-      "links": [
-        {
-          "text": "View on GitHub",
-          "url": "https://github.com/omar92/Optmized-unity-scroll-list",
-          "type": "github"
-        }
-      ]
+      "links": []
     }
   ]
 }
