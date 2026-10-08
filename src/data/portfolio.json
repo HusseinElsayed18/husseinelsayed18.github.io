@@ -273,7 +273,7 @@
     },
     {
       "company": "Freelance / Independent Unity Developer - EgyGames",
-      "url": "https://husseinelsayed.github.io/",
+      "url": "https://husseinelsayed18.github.io/",
       "position": "Unity Developer",
       "startDate": "2026",
       "endDate": "Present",
@@ -314,7 +314,7 @@
     },
     {
       "company": "EKSON Technology / AlMotahida — Scivr",
-      "url": "",
+      "url": "https://scivr.com/",
       "position": "Unity Developer — VR / XR / Educational Applications",
       "startDate": "Sep 2024",
       "endDate": "Jul 2026",
@@ -379,7 +379,7 @@
     },
     {
       "company": "Thaka (Thaka international) / BE-STEAM — 01Skills",
-      "url": "",
+      "url": "https://saudi.01skills.com/",
       "position": "Unity Developer / Robotics & EdTech Developer",
       "startDate": "2023",
       "endDate": "2024",
@@ -445,7 +445,20 @@
       "id": "pstc"
     }
   ],
-  "education": [],
+ "education": [
+  {
+    "name": "Zagazig University - Faculty of Computers & Informatics",
+    "degree": "Bachelor of Information Technology",
+    "field": "Information Technology",
+    "startYear": 2017,
+    "endYear": 2021,
+    "grade": "",
+    "details": "Bachelor's degree with a focus on software development and information technology.",
+    "projects_ids": [],
+    "id": "zagazig-university",
+    "project": ""
+  }
+],
   "projects": [
     {
       "id": "sigato-v2",
@@ -457,9 +470,28 @@
         "iOS",
         "Mobile"
       ],
-      "cover-image": "",
-      "screenshots": [],
-      "videos": [],
+         "cover-image": "src\\Assets\\Images\\sigato-v2\\0.png",
+      "screenshots": [
+        "src\\Assets\\Images\\sigato-v2\\1.png",
+        "src\\Assets\\Images\\sigato-v2\\2.png",
+        "src\\Assets\\Images\\sigato-v2\\3.png",
+        "src\\Assets\\Images\\sigato-v2\\4.png",
+        "src\\Assets\\Images\\sigato-v2\\5.png",
+         "src\\Assets\\Images\\sigato-v2\\6.png",
+          "src\\Assets\\Images\\sigato-v2\\7.png"
+      ],
+       "videos": [
+        {
+          "text": "Sigato v2 Trailer",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\sigato-v2\\sigato-v2-2.mp4"
+        },
+        {
+          "text": "Sigato v2 Shot", 
+          "type": "local",
+          "url":  "src\\Assets\\Videos\\sigato-v2\\sigato-v2-1.mp4"
+        }
+      ],
       "genre": [
         "Board Game",
         "Multiplayer",
@@ -502,27 +534,37 @@
         {
           "title": "Software Architecture",
           "description": "Designed and implemented the project's software architecture using Extenject and Dependency Injection to create modular and maintainable systems.",
-          "screenshot": []
+          "screenshots": [
+       
+      ]
         },
         {
           "title": "Multiplayer Architecture",
           "description": "Extended the multiplayer architecture with client-server synchronization, online communication, lobby, matchmaking, and real-time gameplay systems using Photon PUN 2.",
-          "screenshot": []
+           "screenshots": [
+       
+      ]
         },
         {
           "title": "UI/UX Design",
           "description": "Designed the game's UI/UX independently using Figma and implemented the resulting interface in Unity.",
-          "screenshot": []
+          "screenshots": [
+       
+      ]
         },
         {
           "title": "Platform Services",
           "description": "Integrated Unity Gaming Services, Firebase, Google Sign-In, Google Play Games, and Game Center.",
-          "screenshot": []
+          "screenshots": [
+       
+      ]
         },
         {
           "title": "Live Game Systems",
           "description": "Implemented analytics, in-app purchases, leaderboards, achievements, advertising, localization, daily rewards, challenges, shop, themes, audio, settings, and reusable popup systems.",
-          "screenshot": []
+          "screenshots": [
+      
+      ]
         }
       ],
       "links": []
@@ -533,11 +575,32 @@
       "published": true,
       "name": "Sigato V1",
       "platforms": [
-        "Android"
+        "Android",
+        "iOS",
+        "Mobile"
       ],
-      "cover-image": "",
-      "screenshots": [],
-      "videos": [],
+        "cover-image": "src\\Assets\\Images\\sigato-v1\\1.png",
+      "screenshots": [
+        "src\\Assets\\Images\\sigato-v1\\1.png",
+        "src\\Assets\\Images\\sigato-v1\\2.png"
+      ],
+       "videos": [
+        {
+          "text": "Sigato Trailer",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\sigato-v1\\Sigato v1.mp4"
+        },
+        {
+          "text": "Sigato Gameplay", 
+          "type": "local",
+          "url":  "src\\Assets\\Videos\\sigato-v1\\Sigato play game.mp4"
+        },
+         {
+          "text": "Sigato Gameplay", 
+          "type": "youtube",
+          "url": "https://www.youtube.com/embed/fFqVCoC91a0"
+        }
+      ],
       "genre": [
         "Board Game",
         "Multiplayer",
@@ -595,9 +658,20 @@
         "Pico",
         "WebGL"
       ],
-      "cover-image": "",
-      "screenshots": [],
-      "videos": [],
+        "cover-image": "src\\Assets\\Images\\vrt\\2.png",
+      "screenshots": [
+        "src\\Assets\\Images\\vrt\\1.png",
+        "src\\Assets\\Images\\vrt\\2.png",
+        "src\\Assets\\Images\\vrt\\3.png",
+        "src\\Assets\\Images\\vrt\\4.png"
+      ],
+       "videos": [
+        {
+          "text": "Dentist Trailer",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\scivr-vr-applications\\EKSON VR Dental Training Enhances Precision and Confidence EKSON.mp4"
+        }
+      ],
       "genre": [
         "VR",
         "XR",
@@ -643,7 +717,10 @@
         {
           "title": "VR Application Development",
           "description": "Developed multiple VR projects using VRIF, implementing immersive interactions, object manipulation, UI, navigation, animation, audio, and interactive workflows.",
-          "screenshot": []
+          "screenshot": [ "src\\Assets\\Images\\vrt\\1.png",
+        "src\\Assets\\Images\\vrt\\2.png",
+        "src\\Assets\\Images\\vrt\\3.png",
+        "src\\Assets\\Images\\vrt\\4.png"]
         },
         {
           "title": "Standalone VR Optimization",
@@ -672,9 +749,38 @@
         "PC",
         "WebGL"
       ],
-      "cover-image": "",
-      "screenshots": [],
-      "videos": [],
+        "cover-image": "src\\Assets\\Images\\robot-simulation\\7.png",
+      "screenshots": [
+        "src\\Assets\\Images\\robot-simulation\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\2.png",
+        "src\\Assets\\Images\\robot-simulation\\3.png",
+        "src\\Assets\\Images\\robot-simulation\\4.png",
+        "src\\Assets\\Images\\robot-simulation\\5.png",
+        "src\\Assets\\Images\\robot-simulation\\6.png",
+        "src\\Assets\\Images\\robot-simulation\\7.png",
+        "src\\Assets\\Images\\robot-simulation\\8.png",
+         "src\\Assets\\Images\\robot-simulation\\old\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\old\\2.png",
+          "src\\Assets\\Images\\robot-simulation\\panama\\3.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\4.png"
+      ],
+       "videos": [
+        {
+          "text": "Robot Simulation ev3 & spike Shot(new ui and compiler)",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\robot-simulation\\Robot simulation.mp4"
+        },
+        {
+          "text": "Robot Simulation Shot",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\robot-simulation\\Robot Simulation_EV3_blocks System.mp4"
+        },
+        {
+          "text": "Robot Simulation (Panama)",
+          "type": "local",
+          "url": "src\\Assets\\Videos\\robot-simulation\\panama_with_blocks.mp4"
+        }
+      ],
       "genre": [
         "EdTech",
         "Robotics",
@@ -717,25 +823,53 @@
         {
           "title": "Robotics Simulation",
           "description": "Developed and enhanced robotics simulation supporting LEGO EV3 and SPIKE-style programming and connected simulated robot behavior with programming logic.",
-          "screenshot": []
+          "screenshot": [
+            "src\\Assets\\Images\\robot-simulation\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\2.png",
+        "src\\Assets\\Images\\robot-simulation\\4.png",
+        "src\\Assets\\Images\\robot-simulation\\5.png",
+        "src\\Assets\\Images\\robot-simulation\\6.png",
+        "src\\Assets\\Images\\robot-simulation\\8.png",
+         "src\\Assets\\Images\\robot-simulation\\old\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\old\\2.png",
+          "src\\Assets\\Images\\robot-simulation\\panama\\3.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\4.png"
+          ]
         },
         {
           "title": "Block-Based Programming",
           "description": "Extended block programming with loops, conditions, logic, comparisons, arithmetic, variables, robot movement, sensors, and control structures.",
-          "screenshot": []
+          "screenshot": [
+        "src\\Assets\\Images\\robot-simulation\\3.png",
+        "src\\Assets\\Images\\robot-simulation\\7.png",
+         "src\\Assets\\Images\\robot-simulation\\old\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\old\\2.png",
+          "src\\Assets\\Images\\robot-simulation\\panama\\3.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\4.png"
+          ]
         },
         {
           "title": "Block-to-Python & Code-to-Blocks",
           "description": "Built a custom programming editor supporting conversion between block-based programming and Python code, including portable Python code generation.",
-          "screenshot": []
+          "screenshot": [
+             "src\\Assets\\Images\\robot-simulation\\3.png",
+        "src\\Assets\\Images\\robot-simulation\\7.png",
+           "src\\Assets\\Images\\robot-simulation\\old\\1.png",
+        "src\\Assets\\Images\\robot-simulation\\old\\2.png"
+          ]
         },
         {
           "title": "Panama Robotics Mission",
           "description": "Worked on the Panama educational robotics mission, including robot simulation, block programming, mission objectives, and execution logic.",
-          "screenshot": []
+          "screenshot": [
+             "src\\Assets\\Images\\robot-simulation\\panama\\1.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\2.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\3.png",
+             "src\\Assets\\Images\\robot-simulation\\panama\\4.png"
+          ]
         }
       ],
-      "links": []
+      "links": ["https://saudi.01skills.com/"]
     },
     {
       "id": "pstc-gamified-mobile",
